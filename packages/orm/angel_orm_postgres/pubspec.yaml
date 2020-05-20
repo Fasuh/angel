@@ -9,7 +9,7 @@ dependencies:
   angel_orm: ^2.1.0-beta
   logging: ^0.11.0
   pool: ^1.0.0
-  postgres: ^1.0.0
+  postgres: ^2.1.1
 dev_dependencies:
   angel_orm_test:
     path: ../angel_orm_test
