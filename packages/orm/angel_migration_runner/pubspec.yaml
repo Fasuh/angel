@@ -10,4 +10,4 @@ dependencies:
   angel_orm: ^2.0.0-dev.2
   args: ^1.0.0
   charcode: ^1.0.0
-  postgres: ">=0.9.5 <2.0.0"
+  postgres: ^2.1.1
